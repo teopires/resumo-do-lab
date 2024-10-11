@@ -20,8 +20,24 @@ Também explorei as ferramentas de monitoramento do Azure, como o Azure Security
 4. Gerenciamento de Acessos Condicionais
 Outro ponto importante foi a criação de políticas de acesso condicional, onde definimos regras que determinam quando e como os usuários podem acessar recursos específicos, dependendo de fatores como localização, dispositivo ou risco de segurança. Isso permite um maior controle sobre os acessos à rede e impede que usuários não verificados ou dispositivos comprometidos acessem informações críticas.
 
-Conclusão
 Minha participação neste laboratório foi extremamente enriquecedora, proporcionando uma visão prática sobre como as ferramentas de identidade e segurança do Azure são aplicadas em ambientes empresariais. O conhecimento adquirido sobre a configuração de identidades, controle de acessos, monitoramento de segurança e resposta a incidentes me preparou para lidar com os desafios relacionados à proteção de dados e segurança cibernética. Isso reforça a importância da segurança proativa em ambientes de nuvem e o papel crucial que o Azure desempenha nesse cenário.
+
+Resumo da Participação no Lab da Microsoft: Otimizando Custos no Azure
+
+Durante o lab da Microsoft sobre "Otimizando Custos no Azure", explorei diversas estratégias e ferramentas destinadas a maximizar a eficiência dos recursos em nuvem, reduzindo despesas desnecessárias. O lab ofereceu uma visão abrangente sobre como implementar práticas recomendadas na gestão de custos, como:
+
+Análise de Custos: Utilização do Azure Cost Management para monitorar e analisar os gastos em tempo real, identificando áreas onde é possível economizar.
+
+Dimensionamento Adequado: Aprendi sobre a importância de dimensionar corretamente os recursos, ajustando a capacidade de serviços como VMs e bancos de dados de acordo com a demanda real.
+
+Reservas e Planos de Pagamento: Explorei as vantagens das reservas de capacidade, que oferecem descontos significativos em troca de um compromisso de uso a longo prazo.
+
+Uso de Serviços de Automação: Conheci ferramentas de automação que ajudam a desligar ou redimensionar recursos fora do horário de pico, evitando gastos desnecessários.
+
+Boas Práticas de Governança: Discuti a implementação de políticas de governança para garantir que as equipes estejam cientes e sigam as diretrizes de utilização de recursos.
+
+Ao final do lab, saí com uma compreensão mais clara de como otimizar custos no Azure, além de um conjunto de ferramentas e estratégias que posso aplicar em projetos futuros.
+
 
 Finalmente, o laboratório cobriu estratégias para garantir a escalabilidade e alta disponibilidade dos sistemas com Azure Load Balancer e Traffic Manager, e tive a oportunidade de experimentar com serviços de inteligência artificial utilizando o Azure Cognitive Services.
 
