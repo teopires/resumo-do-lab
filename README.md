@@ -38,6 +38,18 @@ Boas Práticas de Governança: Discuti a implementação de políticas de govern
 
 Ao final do lab, saí com uma compreensão mais clara de como otimizar custos no Azure, além de um conjunto de ferramentas e estratégias que posso aplicar em projetos futuros.
 
+Ferramentas de Implantação no Azure
+
+Durante o lab, aprendi a utilizar diferentes ferramentas de implantação no Azure para facilitar a criação e gerenciamento de recursos:
+
+Azure CLI: Uma ferramenta de linha de comando poderosa, que permite realizar implantações rápidas e automatizadas de forma eficiente.
+
+LabXLive: Proporcionou um ambiente de laboratório interativo para testar cenários de implantação em tempo real, permitindo uma experiência prática.
+
+Modelos ARM e Bicep: Descobri que o ARM (Azure Resource Manager) usa templates JSON para definir infraestrutura como código (IaC), mas o Bicep é uma evolução que simplifica a escrita e manutenção dos templates, tornando o código mais legível e fácil de gerenciar.
+
+Além disso, pratiquei comandos como criar máquinas virtuais Windows usando o Azure CLI e modelos ARM, compreendendo suas vantagens para gerenciar implantaçõe
+
 
 Finalmente, o laboratório cobriu estratégias para garantir a escalabilidade e alta disponibilidade dos sistemas com Azure Load Balancer e Traffic Manager, e tive a oportunidade de experimentar com serviços de inteligência artificial utilizando o Azure Cognitive Services.
 
