@@ -48,6 +48,8 @@ LabXLive: Proporcionou um ambiente de laboratório interativo para testar cenár
 
 Modelos ARM e Bicep: Descobri que o ARM (Azure Resource Manager) usa templates JSON para definir infraestrutura como código (IaC), mas o Bicep é uma evolução que simplifica a escrita e manutenção dos templates, tornando o código mais legível e fácil de gerenciar.
 
+sobre Monitoramento Inteligente com o Azure, explorei as funcionalidades de monitoramento e análise em tempo real oferecidas pela plataforma. Aprendi a implementar o Azure Monitor para coletar e analisar dados de desempenho, configurar alertas proativos e usar o Log Analytics para insights profundos. Além disso, utilizei o Assistente do Azure para otimizar a configuração de monitoramento, que me auxiliou na identificação de métricas relevantes e na recomendação de práticas recomendadas. Trabalhei também com dashboards personalizados no Azure Portal, permitindo visualizações eficazes dos dados monitorados. O lab destacou a importância do monitoramento contínuo na otimização de recursos e na detecção precoce de problemas, contribuindo para a melhoria da eficiência operacional.
+
 Além disso, pratiquei comandos como criar máquinas virtuais Windows usando o Azure CLI e modelos ARM, compreendendo suas vantagens para gerenciar implantaçõe
 
 
